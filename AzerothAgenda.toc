@@ -1,0 +1,6 @@
+## Interface: 30402
+## Title: AzerothAgenda
+## Author: AAAddons
+## Version: 1.0
+## SavedVariablesPerCharacter: AzerothAgendaDB 
+AzerothAgenda.lua
